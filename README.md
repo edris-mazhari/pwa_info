@@ -1,4 +1,6 @@
-![ic_pwainfo](https://github.com/user-attachments/assets/19321349-2e4a-4ec3-bc21-cc1fe38c8dba)
+
+![ic_pwainfo](https://github.com/user-attachments/assets/9943216d-9c80-4d89-9f8c-9308adba9d4a)
+
 Get all info (just) in pwa
 
 ## Installation
