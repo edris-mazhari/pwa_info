@@ -9,7 +9,7 @@ You just need to add ```pwa_info``` as a dependency in your pubspec.yaml file.
 
 ```dart
 dependencies:
-  pwa_info: ^0.0.1
+  pwa_info: ^0.0.2
 ```
 
 ## Get Os Type
