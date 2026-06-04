@@ -1,3 +1,9 @@
+## 1.2.0
+
+- Updated `universal_html` dependency to `^2.3.0`
+- Updated `flutter_lints` to `^6.0.0`
+- Minor cleanup and lint fixes
+
 ## 1.1.0
 
 - **Breaking:** Replaced `getOS()` / `getUserAgent()` methods with `os` / `userAgent` getters

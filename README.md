@@ -19,7 +19,7 @@ Add `pwa_info` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  pwa_info: ^1.1.0
+  pwa_info: ^1.2.0
 ```
 
 Then run:

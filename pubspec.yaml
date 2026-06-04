@@ -1,6 +1,6 @@
 name: pwa_info
 description: "A Flutter package for detecting device and browser information in Progressive Web Apps (PWAs). Supports OS, browser, mobile, and standalone mode detection."
-version: 1.1.0
+version: 1.2.0
 homepage: https://github.com/edris-mazhari/pwa_info
 repository: https://github.com/edris-mazhari/pwa_info
 issue_tracker: https://github.com/edris-mazhari/pwa_info/issues
@@ -19,7 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  universal_html: ^2.2.4
+  universal_html: ^2.3.0
 
 dev_dependencies:
   flutter_test:
